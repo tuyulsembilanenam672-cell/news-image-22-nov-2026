@@ -1,0 +1,1 @@
+{"description":"The World in One Day — 22 November 2026: a program that draws one image summing up Sunday 22 November 2026's world news","name":"news-image-22-nov-2026","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
